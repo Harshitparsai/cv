@@ -1,10 +1,68 @@
+.project1{
+  text-align: center;
+
+}
+.project2{
+  padding-top:50px;
+  padding-bottom: 30px;
+  background-color: #effffb;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.project-discription{
+  text-align: center;
+  padding-left: 20%;
+  padding-right: 20%;
+
+}
+.project-discription > p{
+
+}
+.nevigation
+{
+  padding: 30px;
+
+  text-align: center;
+  background-color: #effffb;
+  margin-bottom: 0px;
+}
+a{
+  padding: 10px;
+  font-size: 25px;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 400;
+  color: #66BFBF;
+  text-decoration: none;
+}
+.brand{
+
+  margin-left: 50px;
+  padding-left: 70px;
+  float: left;
+  display: inline-block;
+}
+.refrence{
+
+  padding-right: 50px;
+  float: right;
+  display: inline-block;
+}
 .TopContainer{
+
+  text-align: center;
   padding: 100px;
-  background-color: #effffb
+  background-color: #effffb;
 
 }
 img{
   border-radius: 100px;
+}
+.mywork-image{
+  height: 300px;
+  width: 500px;
+  padding-top: -30px;
+  border-radius: 0px;
+  border: 5px solid gray;
 }
 .contact-it{
   margin-bottom: 50px;
@@ -13,8 +71,7 @@ img{
   width: 25%;
   float: left;
   border-radius: 150px;
-
-  margin-right: : 30px:
+margin-right: 10px;
 }
 .Developer_img{
   width: 25%;
@@ -23,10 +80,14 @@ img{
   border-radius: 150px;
 }
 .middle-container{
+
+    text-align: center;
   padding-top: 100px;
   padding-bottom: 100px;
 }
 .bottom-container{
+
+    text-align: center;
   padding: 50px;
   background-color: #66BFBF
 }
@@ -45,6 +106,7 @@ hr{
 
 }
 body{
+  margin-right: 0px;
   text-align: center;
     margin-left: 0px;
     margin-top: 0px;
@@ -52,7 +114,7 @@ body{
 }
 h1{
     color: #66BFBF;
-    font-size: 5.625rem;
+   font-size: 5.625rem;
     margin: 50px auto 0px 50px;
     font-family: 'Sacramento', cursive;
 }
@@ -62,18 +124,38 @@ h2{
   font-family: 'Montserrat', sans-serif;
   font-weight: normal;
 }
+h4{
+  color: #66bfbf;
+  font-size: 1.5rem;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: normal;
+}
+.brandimage{
+  height: 100px;
+  width: 100px;
+  border-radius: 25px;
+}
+.refrence-link:hover{
+  color: black;
+  letter-spacing: 0.2rem;
+
+}
 h3{
   color: #11999e;
   font-family: 'Montserrat', sans-serif;
 }
 .top-cloud{
   position:absolute;
-  top : 40px;
-  right:300px;
+  top : 150px;
+  right:220px;
 }
 .bottom-cloud{
   left:300px;
   position: absolute;
+}
+.project-class{
+  height: 100px;
+  weight: 100px;
 }
 .skill-row{
   text-align: left;
@@ -103,6 +185,7 @@ h3{
 	position:relative;
 }
 .footer-link{
+  color: blue;
   text-decoration: none;
   margin: 30px;
 }
