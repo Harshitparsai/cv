@@ -67,6 +67,9 @@ img{
 .contact-it{
   margin-bottom: 50px;
 }
+.profile_img{
+	height:250px;
+}
 .Programming_img{
   width: 25%;
   float: left;
