@@ -1,12 +1,12 @@
 .programming_head{
   font-size: 60px;
 }
-  .text{ display: flex;
+.text{ display: flex;
           text-align: center;
-  }
-  .div_container{ padding-right:100px;
-    padding-left:80px;
-   }
+ }
+ .div_container{ padding-right:100px;
+   padding-left:80px;
+}
 
 
 
