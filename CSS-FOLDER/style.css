@@ -2,12 +2,15 @@
   font-size: 60px;
 }
 
-.text{ display: flex;
-        text-align: center;
+@media only screen and (min-width: 1200px) {
+  .text{ display: flex;
+          text-align: center;
+  }
+  .div_container{ padding-right:100px;
+    padding-left:80px;
+   }
+
 }
-.div_container{ padding-right:100px;
-  padding-left:80px;
- }
 
 .project1{
   text-align: center;
