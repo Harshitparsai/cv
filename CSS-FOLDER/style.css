@@ -1,8 +1,6 @@
 .programming_head{
   font-size: 60px;
 }
-
-@media only screen and (min-width: 1200px) {
   .text{ display: flex;
           text-align: center;
   }
@@ -10,7 +8,7 @@
     padding-left:80px;
    }
 
-}
+
 
 .project1{
   text-align: center;
