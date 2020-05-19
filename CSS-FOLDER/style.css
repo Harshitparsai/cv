@@ -1,13 +1,19 @@
 .programming_head{
   font-size: 60px;
 }
-.text{ display: flex;
-          text-align: center;
+.text{
  }
- .div_container{ padding-right:100px;
-   padding-left:90px;
-}
+ .div_container{
+  margin: 15%;
 
+}
+.main_div_container{
+   display: inline-block;
+   margin-left: 5%;
+   margin-right: 5%;
+   padding: 5%;
+
+}
 
 
 .project1{
@@ -80,7 +86,8 @@ img{
   margin-bottom: 50px;
 }
 .profile_img{
-	height:250px;
+	height:200px;
+  border-radius: 100%;
 }
 .Programming_img{
   width: 25%;
